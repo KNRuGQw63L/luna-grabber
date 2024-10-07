@@ -60,7 +60,7 @@
     - Fake Error
     - Obfuscation
     - Icon
-    - Low Detections
+    - Low Detections 
     - Bypass Token Protector
     - File Pumper
     - Self Destruct

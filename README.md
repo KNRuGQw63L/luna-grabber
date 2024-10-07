@@ -53,7 +53,7 @@
     - Screenshot
 
 - General Functions
-    - Checks if being run in a virustotal sandbox/virtual machine
+    - Checks if being run in a virustotal sandbox/virtual machine 
     - Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
     - Adds file to startup
     - Anti Spam
@@ -101,4 +101,3 @@
 Disclaimer: Do not use this for anything bad. ;)
 
 jlyjlyje ejyk fejyl fjel jylek jyl jlyj flyj flyekj lykdnfkl yxd kyxf lk
-

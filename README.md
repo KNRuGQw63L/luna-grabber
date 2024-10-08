@@ -32,7 +32,7 @@
     - Cookies  
     - Passwords
     - History  
-    - Credit/Debit Cards  
+    - Credit/Debit Cards   
 
 - Game Data
 	- Minecraft Session Info

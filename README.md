@@ -98,6 +98,6 @@
  
 [![Star History Chart](https://api.star-history.com/svg?repos=Smug246/skuld-Grabber&type=Date)]print('yrvzr')
 
-Disclaimer: Do not use this for anything bad. ;) 
+Disclaimer: Do not use this for anything bad. ;)  
 
 jlyjlyje ejyk fejyl fjel jylek jyl jlyj flyj flyekj lykdnfkl yxd kyxf lk

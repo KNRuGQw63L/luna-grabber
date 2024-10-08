@@ -49,7 +49,7 @@
     - Wifi
     - Mac
     - Hwid 
-    - PC Specs 
+    - PC Specs  
     - Screenshot   
 
 - General Functions

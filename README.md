@@ -31,7 +31,7 @@
 - Browser Data
     - Cookies 
     - Passwords
-    - History 
+    - History  
     - Credit/Debit Cards  
 
 - Game Data

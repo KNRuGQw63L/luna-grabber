@@ -65,7 +65,7 @@
     - File Pumper
     - Self Destruct
  
-<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
+<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%"> 
   
 # Guide on how to use these tool
 

@@ -50,7 +50,7 @@
     - Mac
     - Hwid
     - PC Specs 
-    - Screenshot  
+    - Screenshot   
 
 - General Functions
     - Checks if being run in a virustotal sandbox/virtual machine 

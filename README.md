@@ -48,7 +48,7 @@
     - Network IP 
     - Wifi
     - Mac
-    - Hwid
+    - Hwid 
     - PC Specs 
     - Screenshot   
 

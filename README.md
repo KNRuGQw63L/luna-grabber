@@ -29,7 +29,7 @@
     - Backup Codes
  
 - Browser Data
-    - Cookies 
+    - Cookies  
     - Passwords
     - History  
     - Credit/Debit Cards  

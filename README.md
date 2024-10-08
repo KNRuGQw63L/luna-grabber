@@ -44,7 +44,7 @@
 - System info
     - User
     - OS
-    - System
+    - System 
     - Network IP
     - Wifi
     - Mac

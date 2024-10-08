@@ -57,7 +57,7 @@
     - Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
     - Adds file to startup  
     - Anti Spam
-    - Fake Error
+    - Fake Error 
     - Obfuscation
     - Icon
     - Low Detections  

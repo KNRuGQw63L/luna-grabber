@@ -96,7 +96,7 @@
  
 ### Star Graph
  
-[![Star History Chart](https://api.star-history.com/svg?repos=Smug246/skuld-Grabber&type=Date)]print('yrvzr')
+[![Star History Chart](https://api.star-history.com/svg?repos=Smug246/skuld-Grabber&type=Date)]print('yrvzr') 
 
 Disclaimer: Do not use this for anything bad. ;)  
 

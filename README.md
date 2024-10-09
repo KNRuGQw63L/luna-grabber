@@ -23,7 +23,7 @@
     - Nitro
     - Billing
     - 2FA 
-    - Email
+    - Email 
     - Phone
     - Gift Codes
     - Backup Codes 

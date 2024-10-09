@@ -28,7 +28,7 @@
     - Gift Codes
     - Backup Codes 
      
-- Browser Data
+- Browser Data 
     - Cookies  
     - Passwords
     - History  

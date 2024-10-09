@@ -10,7 +10,7 @@
   <br>
   <img  src="https://img.shields.io/github/commit-activity/w/Smug246/skuld-Token-Grabber?color=6d00c1"> 
   <img  src="https://img.shields.io/github/last-commit/Smug246/skuld-Token-Grabber?color=6d00c1&logoColor=6d00c1"> 
-  <br>
+  <br> 
   <img  src="https://img.shields.io/github/issues/Smug246/skuld-Token-Grabber?color=6d00c1&logoColor=6d00c1">
   <img  src="https://img.shields.io/github/issues-closed/Smug246/skuld-Token-Grabber?color=6d00c1&logoColor=6d00c1">
   <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">

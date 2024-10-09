@@ -21,7 +21,7 @@
 - Discord Info
     - Token
     - Nitro
-    - Billing
+    - Billing 
     - 2FA 
     - Email 
     - Phone

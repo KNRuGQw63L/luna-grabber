@@ -45,7 +45,7 @@
     - User
     - OS
     - System 
-    - Network IP 
+    - Network IP  
     - Wifi
     - Mac
     - Hwid 

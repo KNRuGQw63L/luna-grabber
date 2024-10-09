@@ -37,7 +37,7 @@
 - Game Data
 	- Minecraft Session Info
 	- Roblox Cookie & Other Data 
-
+ 
 - Discord Injection  
     - Sends token, password & email on user login or when user changes password  
  

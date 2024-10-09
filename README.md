@@ -55,7 +55,7 @@
 - General Functions
     - Checks if being run in a virustotal sandbox/virtual machine 
     - Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
-    - Adds file to startup   
+    - Adds file to startup    
     - Anti Spam
     - Fake Error 
     - Obfuscation
